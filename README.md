@@ -169,7 +169,7 @@ ORDER BY
   OrderDateKey ASC
 ```
 ## Power BI Model:
-![Model](https://media.licdn.com/dms/image/v2/D4D12AQHcWrskKrdUsw/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1726659457879?e=1732147200&v=beta&t=lpiXW7sO1Wpb76jTQGDRwFtvpf_oek2tnTv6Nu88DDM)
+![image](https://miro.medium.com/v2/resize:fit:828/format:webp/1*dhrz1n4vMqOzJ7dcm0vU8w.png)
 
 ## Power BI DAX:
 
