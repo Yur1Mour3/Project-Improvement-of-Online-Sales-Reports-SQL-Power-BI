@@ -187,3 +187,4 @@ With the new dashboard, the sales team will be able to track sales performance i
 
 ### Final result:
 [Check out the dashboard at this link.](https://app.powerbi.com/groups/me/reports/8d8392fa-faad-463f-ae6b-2f6a95fd6fa3?ctid=81cdc359-90ad-4bc8-b552-3ef2570acfd3&pbi_source=linkShare)
+# [ Outhers Projects](https://yurimoura.carrd.co/)
