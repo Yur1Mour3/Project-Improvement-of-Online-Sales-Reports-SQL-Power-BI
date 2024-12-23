@@ -186,5 +186,5 @@ Sales - Budget = [Sales] - [Budget]
 With the new dashboard, the sales team will be able to track sales performance in a more agile, visual, and detailed manner. The ability to filter by products and customers will facilitate strategic decision-making, allowing better allocation of resources and sales efforts. Additionally, the budget comparison will help monitor progress and adjust targets more efficiently.
 
 ### Final result:
-[Check out the dashboard at this link.](https://app.powerbi.com/groups/me/reports/8d8392fa-faad-463f-ae6b-2f6a95fd6fa3?ctid=81cdc359-90ad-4bc8-b552-3ef2570acfd3&pbi_source=linkShare)
+[Check out the dashboard at this link.](https://app.powerbi.com/view?r=eyJrIjoiZmY4MTEyZDUtMzExZS00OTBkLWI2MGItZTEwOTk1ZjVhNjQ0IiwidCI6IjgxY2RjMzU5LTkwYWQtNGJjOC1iNTUyLTNlZjI1NzBhY2ZkMyJ9)
 # [ Outhers Projects](https://yurimoura.carrd.co/)
